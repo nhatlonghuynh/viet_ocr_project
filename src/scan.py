@@ -115,3 +115,4 @@ def scan_document(image):
     
     print(f"[Scanner] Ảnh cuối cùng: {final_result.shape}")
     return final_result
+    
