@@ -112,3 +112,4 @@ def deskew(image):
     except Exception as e:
         logger.error(f"Lỗi khi deskew: {str(e)}")
         return image
+
